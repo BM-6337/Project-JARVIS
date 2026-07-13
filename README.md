@@ -1,8 +1,8 @@
-# Jarvis AI
+# Project JARVIS
 
 > Your personal desktop AI assistant powered by a double clap.
 
-Jarvis AI continuously listens for a **double clap** through your microphone. Once detected, it automatically executes your personalized startup routine—launching Spotify, opening Chrome tabs, greeting you with an AI-generated voice using ElevenLabs, and bringing Cursor into focus.
+Jarvis (Just A Rather Very Intelligent System) continuously listens for a **double clap** through your microphone. Once detected, it automatically executes your personalized startup routine—launching Spotify, opening Chrome tabs, greeting you with an AI-generated voice using ElevenLabs, and bringing Cursor into focus.
 
 Designed to make sitting down at your desk feel like activating your own AI assistant.
 

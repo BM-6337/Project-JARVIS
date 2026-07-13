@@ -42,8 +42,8 @@ Cursor opens in fullscreen
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/jarvis-ai.git
-cd jarvis-ai
+git clone https://github.com/<your-username>/project-jarvis.git
+cd project-jarvis
 ```
 
 Install dependencies:

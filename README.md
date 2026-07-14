@@ -21,18 +21,23 @@ Designed to make sitting down at your desk feel like activating your own AI assi
 
 ---
 
-## Demo Flow
+## Startup Flow
 
-```text
-Double Clap
-      ↓
-Spotify starts playing
-      ↓
-Chrome opens your favorite websites
-      ↓
-"Welcome home, sir..."
-      ↓
-Cursor opens in fullscreen
+```mermaid
+flowchart TD
+
+A[Double Clap]
+--> B[JARVIS Activated]
+
+B --> C1[Play Spotify]
+B --> C2[Open Chrome]
+B --> C3[Generate Voice Greeting]
+B --> C4[Launch Cursor]
+
+C1 --> D[Workspace Ready]
+C2 --> D
+C3 --> D
+C4 --> D
 ```
 
 ---

@@ -47,8 +47,8 @@ C4 --> D
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/project-jarvis.git
-cd project-jarvis
+git clone https://github.com/BM-6337/Project-JARVIS.git
+cd Project-JARVIS
 ```
 
 Install dependencies:
